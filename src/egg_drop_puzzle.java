@@ -4,7 +4,7 @@
 // case.
 import java.io.*;
 
-class GFG {
+class egg_drop_puzzle {
     static int minTrials(int n, int k)
     {
         // Initialize array of size (n+1) and m as moves.
